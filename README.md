@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MollieWaterr
-- 👀 I’m interested in sftware Engineering and Scratch
+- 👀 I’m interested in software engineering and Scratch
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on future Scratch projects
 - 📫 How to reach me: u dont
