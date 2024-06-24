@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on future Scratch projects
 - 📫 How to reach me: u dont
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I majored in music at University but now I am geting started in tech
+- ⚡ Fun fact: I majored in music at University but now I am getting started in tech
 
 <!---
 MollieWaterr/MollieWaterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
