@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MollieWaterr
-- 👀 I’m interested in software engineering and Scratch
+- 👀 I’m interested in software engineering, animation, digital art, and gaming
 - 🌱 I’m currently learning CS50x
-- 💞️ I’m looking to collaborate on future Scratch projects
+- 💞️ I’m not looking to collaborate in the near future
 - 📫 How to reach me: u dont
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I majored in music at University but now I am getting started in tech
